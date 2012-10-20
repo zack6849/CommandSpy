@@ -1,0 +1,12 @@
+name: CommandSpy
+version: 1.0
+main: me.zack6849.commandspy.CommandSpy
+author: [zack6949]
+commands:
+    cst:
+        description: Toggles commandspy
+        usage: /cst
+permissions:
+   commandspy.toggle:
+        description: permission to toggle commandspy
+        default: op
